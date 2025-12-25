@@ -1,6 +1,6 @@
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu-ranjan-a45631288) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PriyanshuR43091) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyanshuranjan7856@gmail.com)[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?logo=todoist&logoColor=white)](https://priyanshu-portfolio-m8s0.onrender.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu-ranjan-a45631288) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PriyanshuR43091) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyanshuranjan7856@gmail.com)[![Portfolio](https://img.shields.io/badge/Portfolio-00C853?logo=todoist&logoColor=white)](https://priyanshu-portfolio-m8s0.onrender.com/)
 
 
 # 💻 Tech Stack:
