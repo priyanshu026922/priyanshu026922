@@ -1,6 +1,22 @@
+# Hi 👋, I'm Priyanshu Ranjan
 
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu-ranjan-a45631288) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PriyanshuR43091) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyanshuranjan7856@gmail.com)[![Portfolio](https://img.shields.io/badge/Portfolio-00C853?logo=todoist&logoColor=white)](https://priyanshu-portfolio-m8s0.onrender.com/)
+### Web  and ML developer 
+
+<p align="left"> <a href="https://twitter.com/https://x.com/PriyanshuR43091?t=QO_Sq-Ek1-nr-cJvgRK6lw&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/PriyanshuR43091?t=QO_Sq-Ek1-nr-cJvgRK6lw&s=09?logo=twitter&style=for-the-badge" alt="https://x.com/PriyanshuR43091?t=QO_Sq-Ek1-nr-cJvgRK6lw&s=09" /></a> </p>
+
+- 🔭 I'm currently working on **SyncSpace,a collaborative digital canvas**
+
+- 📫 How to reach me **priyanshuranjan7856@gmail.com**
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/priyanshu026922" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="priyanshu026922" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/in/priyanshu-ranjan-a45631288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/priyanshu-ranjan-a45631288" height="30" width="40" /></a>
+<a href="https://twitter.com/https://x.com/PriyanshuR43091?t=QO_Sq-Ek1-nr-cJvgRK6lw&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/PriyanshuR43091?t=QO_Sq-Ek1-nr-cJvgRK6lw&s=09" height="30" width="40" /></a>
+<a href="https://codechef.com/users/https://www.codechef.com/users/troop_shard_29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="https://www.codechef.com/users/troop_shard_29" height="30" width="40" /></a>
+<a href="https://leetcode.com/https://leetcode.com/u/priyanshu_026/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/priyanshu_026/" height="30" width="40" /></a>
+</p>
 
 
 # Tech Stack:
