@@ -8,8 +8,6 @@
 #  GitHub Stats:
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshu026922&show_icons=true&locale=en&layout=compact" alt="priyanshu026922" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshu026922&show_icons=true&locale=en" alt="priyanshu026922" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu026922&" alt="priyanshu026922" /></p>
 
 
