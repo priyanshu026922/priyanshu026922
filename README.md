@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://github.com/priyanshu026922" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="priyanshu026922" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/priyanshu-ranjan-a45631288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu-ranjan-a45631288" height="30" width="40" /></a>
-<a href="https://x.com/PriyanshuR43091" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="PriyanshuR43091" height="30" width="40" /></a>
+<a href="https://x.com/priyanshu_r026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="PriyanshuR43091" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/troop_shard_29" target="blank"><img align="center" src="https://cdn.simpleicons.org/codechef/white" alt="troop_shard_29" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/priyanshu_026/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyanshu_026" height="30" width="40" /></a>
 </p>
