@@ -20,12 +20,14 @@
 
 ## 🚀 What I've Built
 
-**[SyncSpace]** — Real-time collaborative whiteboard with an AI diagram generator. MERN stack + Socket.io + Redis (Upstash) for caching/rate-limiting + Groq API. Deployed on Render (backend) + Vercel (frontend).
+**SyncSpace** — Real-time collaborative whiteboard with an AI diagram generator. MERN stack + Socket.io + Redis (Upstash) for caching/rate-limiting + Groq API. Deployed on Render (backend) + Vercel (frontend).
 
-**[CodeNotes]** — Full-stack developer blogging platform. React.js, Express.js, PostgreSQL, Prisma ORM, Node.js, Tailwind. JWT-based auth with protected routes, deployed on Cloudflare Workers via Wrangler CLI.
+**CodeNotes** — Full-stack developer blogging platform. React.js, Express.js, PostgreSQL, Prisma ORM, Node.js, Tailwind. JWT-based auth with protected routes, deployed on Cloudflare Workers via Wrangler CLI.
 
-**[CloutIt]** — File-sharing app built with the MERN stack and Cloudinary for media storage/delivery.
+**CloutIt** — File-sharing app built with the MERN stack and Cloudinary for media storage/delivery.
 
+
+![Profile Views](https://komarev.com/ghpvc/?username=priyanshu026922&color=blue)
 
 
 # Tech Stack:
